@@ -11,12 +11,12 @@ public class Main {
         tree.root.left.right = new TreeNode(5);
  
         System.out.println("Preorder traversal of binary tree is ");
-        tree.printPreorder();
+//        tree.printPreorder();
  
         System.out.println("\nInorder traversal of binary tree is ");
-        tree.printInorder();
+//        tree.printInorder();
  
         System.out.println("\nPostorder traversal of binary tree is ");
-        tree.printPostorder();
+//        tree.printPostorder();
     }
 }
