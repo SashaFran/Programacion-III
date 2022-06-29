@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="trabajo_practico_1"/>
+	<classpathentry kind="src" path="trabajo_practico_2"/>
+	<classpathentry kind="src" path="trabajo_practico_3"/>
+	<classpathentry kind="src" path="trabajo_practico_4"/>
+	<classpathentry kind="src" path="trabajo_practico_5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
