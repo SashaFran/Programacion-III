@@ -20,7 +20,7 @@ public class Mergesort {
 	
 	private void mergesort(int low, int high) {
 		// si low es menor que high continua el ordenamiento
-		// si low no es menor que high entonces el array está ordenado
+		// si low no es menor que high entonces el array estï¿½ ordenado
 		// ya que es el caso base donde el array tiene un solo elemento.
 		if (low < high) {
 		// obtener el indice del elemento que se encuentra en la mitad
@@ -68,4 +68,29 @@ public class Mergesort {
 			j++;
 		}
 	}
+
+	public int[] getNumbers() {
+		return numbers;
+	}
+
+	public void setNumbers(int[] numbers) {
+		this.numbers = numbers;
+	}
+
+	public int[] getHelper() {
+		return helper;
+	}
+
+	public void setHelper(int[] helper) {
+		this.helper = helper;
+	}
+
+	public int getSize() {
+		return size;
+	}
+
+	public void setSize(int size) {
+		this.size = size;
+	}
+	
 }
